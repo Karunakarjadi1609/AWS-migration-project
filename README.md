@@ -44,6 +44,37 @@ This project demonstrates the migration of on-premises infrastructure to AWS usi
 
 ---
 
+### 📸 Screenshots & Diagrams
+
+**Benefits of Cloud Migration**  
+![Benefits](screenshots/Screenshot%202025-04-24%20204824.png)
+
+**6 Rs of Migration Strategy**  
+![6 Rs](screenshots/Screenshot%202025-04-24%20205145.png)
+
+**AWS MGN Tool - Process Flow**  
+![MGN Flow](screenshots/Screenshot%202025-04-24%20205420.png)
+
+**Virtualization Setup - Linux & Windows VMs**  
+![VM Setup](screenshots/Screenshot%202025-04-24%20205950.png)
+
+**SSH & Firewall Config for Migration**  
+![SSH Config](screenshots/Screenshot%202025-04-24%20210203.png)
+
+**Cloud-Init & Networking Setup**  
+![Cloud Init](screenshots/Screenshot%202025-04-24%20210329.png)
+
+**Systemd Setup for Apache Post-Migration**  
+![Apache Boot](screenshots/Screenshot%202025-04-24%20210433.png)
+
+**Final Post-Migration Steps**  
+![Post Steps](screenshots/Screenshot%202025-04-24%20210504.png)
+
+---
+
+
+---
+
 ## 👤 Author
 
 **Karunakar Jadi**  
